@@ -1,0 +1,14 @@
+#possible speed up
+	1)sleep loop until something changes
+	2)establish constant framerate
+
+#framework
+	1)create layers in which frames are created and drawn
+	2)separate event class?
+
+#features
+	1)hold-down for continuous paint
+	2)create squares
+	3)sample color
+	4)figure out how to get more resolution on screen without sacrificing speed
+	5)drag and drop picture
